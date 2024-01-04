@@ -1,0 +1,10 @@
+C:\Users\HUAWEI\Desktop\WindowsFormsAssignment\WindowsFormsAssignment\bin\Debug\WindowsFormsAssignment.exe.config
+C:\Users\HUAWEI\Desktop\WindowsFormsAssignment\WindowsFormsAssignment\bin\Debug\WindowsFormsAssignment.exe
+C:\Users\HUAWEI\Desktop\WindowsFormsAssignment\WindowsFormsAssignment\bin\Debug\WindowsFormsAssignment.pdb
+C:\Users\HUAWEI\Desktop\WindowsFormsAssignment\WindowsFormsAssignment\obj\Debug\WindowsFormsAssignment.csproj.AssemblyReference.cache
+C:\Users\HUAWEI\Desktop\WindowsFormsAssignment\WindowsFormsAssignment\obj\Debug\WindowsFormsAssignment.Form1.resources
+C:\Users\HUAWEI\Desktop\WindowsFormsAssignment\WindowsFormsAssignment\obj\Debug\WindowsFormsAssignment.Properties.Resources.resources
+C:\Users\HUAWEI\Desktop\WindowsFormsAssignment\WindowsFormsAssignment\obj\Debug\WindowsFormsAssignment.csproj.GenerateResource.cache
+C:\Users\HUAWEI\Desktop\WindowsFormsAssignment\WindowsFormsAssignment\obj\Debug\WindowsFormsAssignment.csproj.CoreCompileInputs.cache
+C:\Users\HUAWEI\Desktop\WindowsFormsAssignment\WindowsFormsAssignment\obj\Debug\WindowsFormsAssignment.exe
+C:\Users\HUAWEI\Desktop\WindowsFormsAssignment\WindowsFormsAssignment\obj\Debug\WindowsFormsAssignment.pdb
